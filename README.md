@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Prediction
 
-A deep learning project using a multi-layer perceptron (FNN) to predict bank customer churn. Developed models to analyze extensive transactional data, achieving over 85% predictive accuracy through feature engineering, hyperparameter tuning with Adam optimizer, and Binary-cross Entropy Classification.
+A deep learning project using a multi-layer perceptron (Feed Forward Neural Network) to predict bank customer churn. Developed models to analyze extensive transactional data, achieving over 85% predictive accuracy through feature engineering, hyperparameter tuning with Adam optimizer, and Binary-cross Entropy Classification.
 Implemented TensorFlow and Keras to gain insights, decrease churn and improve customer retention.
 
 # Contributing
